@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab4</string>
+    <string-array name="style_list">
+        <item>Картинка</item>
+        <item>Синий</item>
+        <item>Зелёный</item>
+    </string-array>
+    <string-array name="btn_list">
+        <item>Салатово-розовый</item>
+        <item>Голубо-синий</item>
+    </string-array>
+    <string-array name="text_list">
+        <item>Синий</item>
+        <item>Розовый</item>
+    </string-array>
+</resources>

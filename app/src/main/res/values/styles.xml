@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:buttonStyle">@style/myNewButton</item>
+    </style>
+    <style name="myNewButton" parent="Base.Widget.AppCompat.Button">
+        <item name="android:background">@drawable/mybtn</item>
+    </style>
+
+</resources>
